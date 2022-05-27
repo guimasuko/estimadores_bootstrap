@@ -1,0 +1,1 @@
+A ideia dessa lista de exercícios é mostrar como se comportam os estimadores de Ordinary Least Squared (OLS) e Maximum Log-likelihood Estimator (MLE) se comportam em uma abordagem com três modelos com diferentes distribuições, Gaussiana, Gamma e Cauchy. Nesse exercício também, foi usado o método de Bootstrap para estimar a distribuições dos estimadores.
